@@ -1,2 +1,2 @@
 # EXE
-Criando arquivos exécutáveis
+Criando arquivos exécutáveis utilizando o winrar
